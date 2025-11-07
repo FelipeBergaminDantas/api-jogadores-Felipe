@@ -162,13 +162,6 @@ npm run dev
 
 4. Acesse a aplicação em: `http://localhost:3000`
 
-### Usando os Scripts (Windows)
-
-**Para instalar o frontend:**
-- Clique duas vezes em `frontend/install.bat`
-
-**Para iniciar o frontend:**
-- Clique duas vezes em `frontend/start.bat`
 
 ## 🎨 Funcionalidades do Frontend
 
@@ -188,8 +181,6 @@ Acesse `http://localhost:3000` e utilize a interface gráfica para testar todas 
 ### Usando Postman ou Insomnia
 Importe a coleção de endpoints e teste cada operação CRUD.
 
-### Usando curl (linha de comando)
-Utilize os exemplos de requisições fornecidos na seção "Exemplos de Requisições".
 
 ## 📝 Observações Importantes
 
@@ -199,40 +190,10 @@ Utilize os exemplos de requisições fornecidos na seção "Exemplos de Requisi�
 - ✅ Implementa **todas as operações CRUD** (Create, Read, Update, Delete)
 - ✅ Frontend e backend são **completamente independentes** e se comunicam via API REST
 
-## 🎯 Estrutura de Dados - Jogador
-
-| Campo | Tipo | Descrição |
-|-------|------|-----------|
-| id | int | Identificador único do jogador |
-| nome | String | Nome completo do jogador |
-| posicao | String | Posição em campo (Atacante, Meio-campo, Zagueiro, Goleiro) |
-| idade | int | Idade do jogador |
-| altura | double | Altura em metros |
-| peso | double | Peso em quilogramas |
-| nacionalidade | String | País de origem |
-| clube | String | Clube atual |
-| salario | double | Salário anual |
-| numeroCamisa | int | Número da camisa |
-| golsMarcados | int | Total de gols na carreira |
-| status | String | Status atual (Ativo, Lesionado, Suspenso, Inativo) |
-
-## 🚀 Melhorias Futuras
-
-- [ ] Integração com banco de dados (PostgreSQL, MySQL)
-- [ ] Autenticação e autorização (JWT)
-- [ ] Paginação de resultados
-- [ ] Filtros e busca avançada
-- [ ] Upload de fotos dos jogadores
-- [ ] Estatísticas e gráficos
-- [ ] Exportação de dados (PDF, Excel)
-- [ ] Testes unitários e de integração
 
 ## 👨‍💻 Autor
 
-**Felipe**  
-Projeto desenvolvido para a disciplina de Desenvolvimento de APIs  
-**Professor:** Vitor Jesus  
-**Instituição:** FECAF
+**Felipe Bergamin Dantas**  
 
 ## 📄 Licença
 
