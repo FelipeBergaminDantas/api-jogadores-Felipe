@@ -1,0 +1,41 @@
+========================================
+  COMO RODAR O FRONTEND
+========================================
+
+PASSO 1: Instalar Node.js
+--------------------------
+Se voce ainda nao tem o Node.js instalado:
+
+1. Acesse: https://nodejs.org/
+2. Baixe a versao LTS (recomendada)
+3. Instale e reinicie o computador
+
+
+PASSO 2: Instalar dependencias
+-------------------------------
+Clique duas vezes no arquivo:
+  install.bat
+
+Aguarde a instalacao terminar (pode demorar alguns minutos)
+
+
+PASSO 3: Rodar o frontend
+--------------------------
+Clique duas vezes no arquivo:
+  start.bat
+
+O navegador vai abrir em: http://localhost:3000
+
+
+IMPORTANTE:
+-----------
+O backend precisa estar rodando ANTES de iniciar o frontend!
+
+Backend: http://localhost:8080/api/jogadores/Felipe
+
+
+========================================
+  DUVIDAS?
+========================================
+
+Veja o arquivo: COMO-INSTALAR.md
